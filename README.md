@@ -106,7 +106,7 @@ Dropout is a regularization technique that randomly deactivates a percentage of 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/picture-categorizer-cnn.git
+git clone https://github.com/ganascimento/picture-categorizer-cnn.git
 cd picture-categorizer-cnn
 ```
 
