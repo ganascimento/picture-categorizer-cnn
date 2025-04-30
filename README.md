@@ -12,7 +12,7 @@ This project implements a CNN (Convolutional Neural Network) capable of classify
 - **Regularization Techniques**: Implements Batch Normalization and Dropout to improve model performance and reduce overfitting.
 - **Cross-Platform Compatibility**: Runs seamlessly on Linux, Windows, and macOS with Python and Streamlit.
 
-## Resources
+## 📚 Resources
 
 - [Python](https://www.python.org/downloads/)
 - [PyTorch](https://pytorch.org/)
